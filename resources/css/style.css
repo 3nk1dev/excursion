@@ -6,9 +6,20 @@ body, html {
 }
 
 .header--main {
-    font-weight: normal;
+    font-weight: 300;
     font-size: 50;
     color: #ffffff;
+}
+
+.header--secondary {
+    font-weight: normal;
+    font-size: 42;
+    color: #ffffff;
+}
+
+.header--subheader {
+    font-size: 21;
+    color: gray;
 }
 
 .link--cta {
